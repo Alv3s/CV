@@ -16,8 +16,11 @@ jobs:
       
     - name: Build artifact
       run: docker run --mount type=bind,src=$(pwd),dst="/home/node/CV" --mount type=volume,dst="/home/node/CV/node_modules" alvescv
+    
+    - name: List Files
+      run: ls releases
       
     - uses: actions/upload-artifact@v1
       with:
         name: CV
-        path: releases/*
+        path: releases/*.*
