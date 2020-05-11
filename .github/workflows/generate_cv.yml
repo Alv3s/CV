@@ -1,0 +1,23 @@
+name: CV
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Build Docker Image
+      run: docker build -t alvescv - < Dockerfile
+      
+    - name: Build artifact
+      run: docker run --mount type=bind,src="D:\Repo\Alves\CV",dst="/home/node/CV" --mount type=volume,dst="/home/node/CV/node_modules" alvescv
+      
+    - uses: actions/upload-artifact@v1
+      with:
+        name: CV
+        path: releases/*
