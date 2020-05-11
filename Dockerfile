@@ -26,4 +26,7 @@ WORKDIR /home/node/CV
 
 ENV RESUME_PUPPETEER_NO_SANDBOX=1
 
+RUN ["chmod", "+x", "install.sh"]
+RUN ["chmod", "+x", "generate.sh"]
+
 CMD npm install && ./install.sh && ./generate.sh
