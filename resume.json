@@ -1,0 +1,231 @@
+{
+	"basics": {
+		"name": "Ricardo Alves",
+		"label": "Programmer",
+		"picture": "https://media-exp1.licdn.com/dms/image/C5603AQHt5cOjbZO4hQ/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=9LeSy0A7CK_-L_569GuLWhxbpU4nnl0hJ-jKqHetr1E",
+		"email": "ricardo_m_alves@outlook.com",
+		"phone": "(+351) 933 046 880",
+		"summary": "With 7 years of programming experience, I have worked and developed in all different kind of technologies, from IoT, to backend and frontend. Using all the best coding practices, I have more experience in C++, C# and Angular, but I am a fast learner when it comes to technologies and spend most of my freetime trying new tech and developing small personal projects.",
+		"location": {
+			"address": "Rua António Viegas Calçada, Bloco Alegria nº3",
+			"postalCode": "8150-119",
+			"city": "São Brás de Alportel",
+			"countryCode": "PT",
+			"region": "Faro"
+		},
+		"profiles": [{
+				"network": "LinkedIn",
+				"username": "ricardo-alves-8387a361",
+				"url": "https://www.linkedin.com/in/ricardo-alves-8387a361/"
+			},
+			{
+				"network": "Stackoverflow",
+				"username": "1854114",
+				"url": "https://stackoverflow.com/users/1854114/ricardo-alves"
+			}
+		]
+	},
+	"work": [{
+			"position": "Freelancer Developer",
+			"startDate": "2019-03-21",
+			"summary": "Freelancer developer of any kind of backend or frontend solutions. Worked on several projects base on C++, C#, Golang, Typescript, Angular, gRPC, OpenCV and IoT."
+		},
+		{
+			"company": "Omnibees",
+			"position": "Developer",
+			"website": "https://www.omnibees.com/en/",
+			"startDate": "2018-03-20",
+			"endDate": "2019-03-20",
+			"summary": "Development and maintenance of our Hotel related solution. New developments on REST API (C# Web API) and Angular or Angular JS frontend, with maintenance given on our Silverlight frontend solution. Some of our services were also developed on ASP.NET MVC."
+		},
+		{
+			"company": "Forge IT",
+			"position": "Full Stack Developer",
+			"startDate": "2017-10-16",
+			"endDate": "2018-03-16",
+			"summary": "Development of projects per client being mainly in C# ASP.NET Web API and MVC with AngularJS and Bootstrap. C++ development on Computer Vision projects."
+		},
+		{
+			"company": "Thales Portugal",
+			"position": "C++/Java Developer",
+			"website": "https://www.thalesgroup.com/en/countries/europe/portugal",
+			"startDate": "2016-05-29",
+			"endDate": "2017-10-14",
+			"summary": "Development of software related to passenger information of trains/metro and stations. Main responsible for the development and integration of central software capable of communicating with the central onboard train system for Doha Metro. The software I developed was also responsible to distribute the data received from the train to other Thales sub-systems via Microservices architecture."
+		},
+		{
+			"company": "University of the Algarve",
+			"position": ".NET Platform Trainer",
+			"website": "https://www.ualg.pt/pt",
+			"startDate": "2015-11-01",
+			"endDate": "2016-03-01",
+			"summary": "Class lessons and training for C# and .NET technologies."
+		},
+		{
+			"company": "University of the Algarve",
+			"position": "Researcher",
+			"website": "https://www.ualg.pt/pt",
+			"startDate": "2013-09-01",
+			"endDate": "2015-08-01",
+			"summary": "Backend development and research applied on interactive holographic solutions."
+		}
+	],
+	"education": [{
+			"institution": "University of The Algarve",
+			"area": "Electric and Electronic Engineering",
+			"studyType": "Master",
+			"startDate": "2012-09-01",
+			"endDate": "2015-10-01",
+			"gpa": "17"
+		},
+		{
+			"institution": "University of The Algarve",
+			"area": "Electric and Electronic Engineering",
+			"studyType": "Bachelor",
+			"startDate": "2009-09-01",
+			"endDate": "2012-07-01",
+			"gpa": "14"
+		}
+	],
+	"publications": [
+		{
+			"name": "Interactive 360º Holographic Installation",
+			"publisher": "International Journal of Creative Interfaces and Computer Graphics",
+			"releaseDate": "2017-07-01"
+		},
+		{
+			"name": "PRHOLO: 360º Interactive Public Relations",
+			"publisher": "Handbook of Research on Human-Computer Interfaces, Developments, and Applications",
+			"releaseDate": "2016-06-01"
+		},
+		{
+			"name": "Augmented reality system to assist inexperienced pool players",
+			"publisher": "Computer Media Vision",
+			"releaseDate": "2016-06-01"
+		},
+		{
+			"name": "Interactive 180º Rear Projection Public Relations",
+			"publisher": "Procedia Computer Science",
+			"releaseDate": "2015-05-01"
+		},
+		{
+			"name": "PRHOLO: Interactive Holographic Public Relations",
+			"publisher": "Advances in Computing",
+			"releaseDate": "2015-01-01"
+		},
+		{
+			"name": "Learning Technical Drawing with Augmented Reality and Holograms",
+			"publisher": "Education and Educational Technology",
+			"releaseDate": "2014"
+		},
+		{
+			"name": "A 3D Gesture Recognition Interface for Energy Monitoring and Control Applications",
+			"publisher": "Applications of Computer Engineering",
+			"releaseDate": "2014"
+		},
+		{
+			"name": "Fátima revisited: An interactive installation",
+			"publisher": "Social Sciences and Arts",
+			"releaseDate": "2014-09-01"
+		},
+		{
+			"name": "PoolLiveAid: Augmented reality pool table to assist inexperienced players",
+			"publisher": "Computer Graphics, Visualization and Computer Vision",
+			"releaseDate": "2014-06-01"
+		}
+	],
+	"skills": [{
+			"name": "Desktop Applications Development",
+			"level": "Advanced",
+			"keywords": [
+				"UWP",
+				"WPF",
+				"C#",
+				"C++"
+			]
+		},
+		{
+			"name": "Frontend Development",
+			"level": "Advanced",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"Javascript",
+				"Typescript",
+				"AngularJS",
+				"Angular"
+			]
+		},
+		{
+			"name": "Backend Development",
+			"level": "Advanced",
+			"keywords": [
+				"C#",
+				"C++",
+				"Java",
+				"Python"
+			]
+		},
+		   {
+			"name": "Other Tools",
+			"level": "Advanced",
+			"keywords": [
+				"Git",
+				"Docker"
+			]
+		}
+	],
+	"languages": [{
+			"language": "Portuguese",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "Full Professional"
+		}
+	],
+	"projects": [{
+			"name": "Pool Live AR",
+			"description": "Pool Live AR is an augmented reality tool built mainly for amateur and inexperienced players, predicting in real time the trajectory of the balls. Using a camera as input, images of the playable field are acquired in real time, allowing detection of table boundaries, balls’ and cue position, calculating afterwards the probable trajectory of the white ball as well as other balls. The result is then forwarded to a projector, placed above the table, showing the output result onto the table. This project was featured in many world wide websites such as Gizmodo, T3, Daily Telegraph, FOX 8 News, amongst many others, reaching more than a million and a half views on Youtube",
+			"highlights": [
+				"Invitated to participate on GITEX 2019, Dubai",
+				"1 Million views on Youtube",
+				"Featured at Gizmodo, T3, Daily Telegraph, FOX 8 News, etc."
+			],
+			"keywords": [
+				"Computer Vision", "C++"
+			],
+			"startDate": "2012-12-17",
+			"url": "https://www.youtube.com/watch?v=oyzt6hajcVM",
+			"roles": [
+				"Co-Creator"
+			],
+			"type": "application"
+		},
+		{
+			"name": "OpenDarts",
+			"description": "OpenDarts is a project built from scratch using a microcontroller and a Computer. The microcontroller receives data from a dartboard and sends the signals to the computer. The software built is able to manage scores in several programmed games and register all users’ moves and score to a database online. The software is available for purchase (and free trial) on the Windows App Store.",
+			"highlights": [
+				"Featured at Arduino website."
+			],
+			"keywords": [
+				"UWP", "C#", "IoT", "C++"
+			],
+			"startDate": "2016-05-01",
+			"url": "https://www.microsoft.com/en-us/p/opendarts/9nblggh42l8n",
+			"roles": [
+				"Creator"
+			],
+			"type": "application"
+		}
+	],
+	"interests": [{
+		"name": "Sports"
+	},
+	{
+		"name": "Technology"
+	}],
+	"meta": {
+		"theme": "elegant"
+	}
+}

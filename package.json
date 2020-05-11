@@ -1,0 +1,19 @@
+{
+  "name": "CV",
+  "version": "1.0.0",
+  "description": "Ricardo Alves's CV",
+  "author": "Ricardo Alves <ricardo_m_alves@outlook.com>",
+  "license": "MIT",
+  "keywords": [
+    "nodejs",
+    "jsonresume"
+  ],
+  "dependencies": {
+    "jsonresume-theme-even": "^0.3.1",
+    "jsonresume-theme-macchiato-ibic": "^1.0.4",
+    "jsonresume-theme-orbit": "^1.0.3",
+    "jsonresume-theme-samk": "^1.0.11",
+    "jsonresume-theme-spartan-extended": "^0.4.1",
+    "resume-cli": "^1.2.7"
+  }
+}
