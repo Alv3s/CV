@@ -11,4 +11,5 @@ do
 	echo "./node_modules/.bin/resume export resume_$line.pdf -t $line"
 	./node_modules/.bin/resume export releases/resume_$line.pdf -t $line
 done < "$input"
-
+cd releases
+tar -zcvf CV_Ricardo_Alves.tar.gz *
