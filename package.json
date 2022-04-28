@@ -9,10 +9,10 @@
     "jsonresume"
   ],
   "dependencies": {
-    "jsonresume-theme-even": "^0.3.1",
-    "jsonresume-theme-macchiato-ibic": "^1.0.4",
-    "jsonresume-theme-orbit": "^1.0.3",
-    "jsonresume-theme-samk": "^1.0.11",
+    "jsonresume-theme-even": "^0.3.2",
+    "jsonresume-theme-macchiato-ibic": "^1.0.5",
+    "jsonresume-theme-orbit": "^1.1.0",
+    "jsonresume-theme-samk": "^1.0.55",
     "jsonresume-theme-spartan-extended": "^0.4.1",
     "resume-cli": "^1.2.7"
   }

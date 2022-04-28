@@ -25,9 +25,26 @@
 			}
 		]
 	},
-	"work": [{
+	"work": [
+		{
+			"company": "Paycritical",
+			"position": "Android Developer",
+			"website": "https://www.paycritical.com/pt-PT",
+			"startDate": "2021-06-21",
+			"summary": "Development of mobile solutions related to payments. Technologies worked with varied from Java to React Native."
+		},
+		{
+			"company": "Omnibees",
+			"position": "Developer",
+			"website": "https://www.omnibees.com/en/",
+			"startDate": "2020-09-26",
+			"endDate": "2021-06-20",
+			"summary": "Development and maintenance of our Hotel related solution. New developments on REST API (C# Web API) and Angular or Angular JS frontend, with maintenance given on our Silverlight frontend solution. Some of our services were also developed on ASP.NET MVC."
+		},
+		{
 			"position": "Freelancer Developer",
 			"startDate": "2019-03-21",
+			"endDate": "2020-09-26",
 			"summary": "Freelancer developer of any kind of backend or frontend solutions. Worked on several projects base on C++, C#, Golang, Typescript, Angular, gRPC, OpenCV and IoT."
 		},
 		{
