@@ -2,10 +2,10 @@
 	"basics": {
 		"name": "Ricardo Alves",
 		"label": "Programmer",
-		"picture": "https://media-exp1.licdn.com/dms/image/C5603AQHt5cOjbZO4hQ/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=9LeSy0A7CK_-L_569GuLWhxbpU4nnl0hJ-jKqHetr1E",
+		"picture": "https://media.licdn.com/dms/image/v2/D4D03AQEE_D7xkDfdrQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724425661313?e=1729728000&v=beta&t=pSzTQjX83T-zOLv5wuX1y_tzJmAK2dk10ZrHyIMWLf4",
 		"email": "ricardo_m_alves@outlook.com",
 		"phone": "(+351) 933 046 880",
-		"summary": "With 7 years of programming experience, I have worked and developed in all different kind of technologies, from IoT, to backend and frontend. Using all the best coding practices, I have more experience in C++, C# and Angular, but I am a fast learner when it comes to technologies and spend most of my freetime trying new tech and developing small personal projects.",
+		"summary": "With 11 years of programming experience, I have worked and developed in all different kind of technologies, from IoT, to backend and frontend. Using all the best coding practices, I have more experience in C++, C# and Angular, but I am a fast learner when it comes to technologies and spend most of my freetime trying new tech and developing small personal projects.",
 		"location": {
 			"address": "Rua António Viegas Calçada, Bloco Alegria nº3",
 			"postalCode": "8150-119",
@@ -28,14 +28,14 @@
 	"work": [
 		{
 			"company": "Paycritical",
-			"position": "Android Developer",
+			"position": "Full Stack Developer",
 			"website": "https://www.paycritical.com/pt-PT",
 			"startDate": "2021-06-21",
-			"summary": "Development of mobile solutions related to payments. Technologies worked with varied from Java to React Native."
+			"summary": "Development of payment solution related to Restaurants and Hotels. C# .NET based backend with REST API and MVC with frontend mainly in React."
 		},
 		{
 			"company": "Omnibees",
-			"position": "Developer",
+			"position": "Backend Developer",
 			"website": "https://www.omnibees.com/en/",
 			"startDate": "2020-09-26",
 			"endDate": "2021-06-20",
@@ -49,7 +49,7 @@
 		},
 		{
 			"company": "Omnibees",
-			"position": "Developer",
+			"position": "Backend Developer",
 			"website": "https://www.omnibees.com/en/",
 			"startDate": "2018-03-20",
 			"endDate": "2019-03-20",
