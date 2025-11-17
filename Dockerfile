@@ -55,16 +55,7 @@ RUN apt-get install -y libnss3
 RUN apt-get install -y lsb-release
 RUN apt-get install -y xdg-utils
 RUN apt-get install -y wget
-
-# Install puppeteer so it's available in the container.
-RUN npm i puppeteer \
-    # Add user so we don't need --no-sandbox.
-    # same layer as npm install to keep re-chowned files from using up several hundred MBs more space
-    && groupadd -r pptruser && useradd -r -g pptruser -G audio,video pptruser \
-    && mkdir -p /home/pptruser/Downloads \
-    && chown -R pptruser:pptruser /home/pptruser \
-    && chown -R pptruser:pptruser /home/node/CV/node_modules
-
-ENV RESUME_PUPPETEER_NO_SANDBOX=1
+RUN apt-get install -y wget
+RUN apt-get install -y wkhtmltopdf
 
 CMD chmod +x install.sh && chmod +x generate.sh && npm install && ./install.sh && ./generate.sh
